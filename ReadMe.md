@@ -24,3 +24,6 @@
       Authentication: JWT + bcryptjs
       
       Development Tools: Nodemon, Thunder Client/Postman
+
+**Preview**
+<img width="1869" height="888" alt="image" src="https://github.com/user-attachments/assets/38bcd5aa-78b8-4d7d-a6e7-69efde531dc1" />
